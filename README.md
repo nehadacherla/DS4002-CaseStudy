@@ -4,10 +4,13 @@
 This repository contains all materials necessary to complete the Air Quality Analysis for your first project as a data science analyst at Data Dinosaurs think tank!
 
 # Hook and Rubric Documents
-The document outlining the case study is the file labeled "Air Quality Hook Document". The rubric outlines the formatting, submission requirements, and final deliverables for this case study and is labeled "Air Quality Case Study Rubric". Refer to both of these documents as you work through this case study to ensure successful completion of the project. 
+The document outlining the case study is the file labeled "Air Quality Hook Document" found in the "HOOK" folder. The rubric outlines the formatting, submission requirements, and final deliverables for this case study and is labeled "Air Quality Case Study Rubric". Refer to both of these documents as you work through this case study to ensure successful completion of the project. 
 
 # Data
 The time series data can be obtained from the "DATA" folder in this repository. 
+
+# Materials
+The "MATERIALS" folder contains documentation on the EPA's information on NO2 levels, Utah's air quality, Maine's air quality, sample code for exploratory data analysis, sample code for time series analysis, and some information on how to perform time series analysis in R. 
 
 # Reference Materials
 U.S. Environmental Protection Agency, “Nitrogen Dioxide (NO₂) Pollution,” EPA, [Online]. Available: https://www.epa.gov/no2-pollution. [Accessed: Feb. 27, 2025].
