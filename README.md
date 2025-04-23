@@ -1,4 +1,4 @@
-# Air Quality Analysis Case Study
+### Air Quality Analysis Case Study
 
 # A DS 4002 Case Study by Neha Dacherla
 This repository contains all materials necessary to complete the Air Quality Analysis for your first project as a data science analyst at Data Dinosaurs think tank!
